@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="myExt_main" name="my extension" level="15" group="main">
+		<description />
+		<sections>
+			<section id="myExt_main" name="my extension" url="/myExt/MyExt/index" />
+			<section id="myExt_other" name="Template" url="/myExt/MyExt/templateExample" />
+		</sections>
+	</structure>
+</structures>
